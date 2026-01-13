@@ -1,6 +1,6 @@
 # Assign values to variables
 num1 = 55
-num = 45
+num2 = 45
 
 # Add two numbers
 sum_result = num1 + num2
